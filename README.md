@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Altıntaş</h1>
-<h3 align="center">Target Backend Developer</h3>
+<h3 align="center">Target .Net Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanaltintas&label=Profile%20views&color=0e75b6&style=flat" alt="furkanaltintas" /> </p>
 
