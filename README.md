@@ -7,20 +7,14 @@
 <a href="https://linkedin.com/in/furkanaltintas" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 <br/>  
 
-
-## Rapidfire  
+## About  
 - 🔭 I'm trying to become a Full-Stack DotNet Developer  
-  
-
 - 🌱 I’m currently learning Net Core, Angular & Python  
-  
-
+ 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -52,23 +46,18 @@
 
 <br/>  
 
-
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=FurkanAltintas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAltintas&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
+<br/>   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FurkanAltintas&&style=flat-square" align="center" />
