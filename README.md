@@ -19,7 +19,9 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr>
+    <td valign="top" width="100%">
 
 - 🔭 I'm trying to become a Full-Stack DotNet Developer  
   
@@ -27,11 +29,8 @@
 - 🌱 I’m currently learning Net Core, Angular & Python  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  </td>
+  </tr></table>  
 
 <br/>  
 
