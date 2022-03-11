@@ -21,7 +21,7 @@
 ## Rapidfire  
 <table>
   <tr>
-    <td valign="top" width="100%">
+    <td valign="top">
 
 - 🔭 I'm trying to become a Full-Stack DotNet Developer  
   
@@ -30,7 +30,8 @@
 
 
   </td>
-  </tr></table>  
+  </tr>
+</table>  
 
 <br/>  
 
