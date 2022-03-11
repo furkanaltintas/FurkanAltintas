@@ -44,20 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
 </div>  
 
-<br/>  
-
-## Github Stats  
-<table><tr><td valign="top" width=50%;>
-
-<img src="https://github-readme-stats.vercel.app/api?username=FurkanAltintas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width=50%;>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAltintas&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>   
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=FurkanAltintas&&style=flat-square" align="center" />
