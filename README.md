@@ -9,29 +9,15 @@
 </a>  
   
 
-
-
-### About  
-.Net Dev  
-  
-
 <br/>  
 
 
 ## Rapidfire  
-<table>
-  <tr>
-    <td valign="top">
-
 - 🔭 I'm trying to become a Full-Stack DotNet Developer  
   
 
 - 🌱 I’m currently learning Net Core, Angular & Python  
-
-
-  </td>
-  </tr>
-</table>  
+  
 
 <br/>  
 
