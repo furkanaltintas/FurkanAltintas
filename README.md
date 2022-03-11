@@ -10,12 +10,6 @@
 
 <br/>  
 
-## About  
-- 🔭 I'm trying to become a Full-Stack DotNet Developer  
-- 🌱 I’m currently learning Net Core, Angular & Python  
- 
-<br/>  
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
