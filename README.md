@@ -11,7 +11,7 @@
 <br/>  
 
 ## Github Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAltintas&hide=html,css,javascript&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAltintas&hide=html,css,javascript,less,scss,php&langs_count=10)
 
 <br/>
 
