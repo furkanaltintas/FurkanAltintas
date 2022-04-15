@@ -8,11 +8,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-<br/>  
-
-## Github Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanAltintas&hide=html,css,javascript,less,scss,php&langs_count=10)
-
 <br/>
 
 ## Languages and Tools  
